@@ -1,0 +1,5 @@
+{
+  "name": "ManuelMods Feed",
+  "description": "A personal social media feed where only ManuelMods can post and comment, while others can view.",
+  "requestFramePermissions": []
+}
